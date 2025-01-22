@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1560517643 source:c:\users\junior\desktop\campo minado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1560296989 source:c:\users\junior\desktop\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
